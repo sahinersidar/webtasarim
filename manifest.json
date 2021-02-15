@@ -1,0 +1,38 @@
+{
+  "name": "aodfokuyanlaer.blogspot.com",
+  "short_name": "Aöfokuyanlar",
+  "start_url": "https://aofokuyanlar.blogspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Blogger tema tasırımı ve SEO bilgileri",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-FGnVkLkTF_4/YCpySyLC_xI/AAAAAAAAAYc/_0D1hxy67womeGCsCsFtftZvXkREMA0zQCNcBGAsYHQ/s16000/s48-android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-y7hePFUmvK8/YCpycfRRD_I/AAAAAAAAAYg/1ssiysJzNu0m9G8QaxaFGxqPl0kQlNyewCNcBGAsYHQ/s16000/s72-android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WVtEHIjzLxI/YCpyj2qz_2I/AAAAAAAAAYo/gaBfZfB7w9kavkjaJbnLKKP99mYAevoDwCNcBGAsYHQ/s16000/s96-android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-J5yNrmE8KwI/YCpyqh6SGCI/AAAAAAAAAYs/izm7c-dFKusAniD5id7UY4JTKFlNCNupQCNcBGAsYHQ/s0/s144-android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RgK674OrcKU/YCpyvDZvX9I/AAAAAAAAAY0/fB4ov6C6nxss2iaAB79mJRXg6ai_wdbIACNcBGAsYHQ/s0/s168-android-icon-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-v2vfev-wMf4/YCpy2sp07ZI/AAAAAAAAAY4/OqeMVhAlyv8ualWSM3YWnX8ANBSRJYPoQCNcBGAsYHQ/s0/s192-android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fkr2DDY7wUE/YCpy7aRwVjI/AAAAAAAAAY8/TjdX9Jy9WTUkE5BIElithb3L8Yrr7qewgCNcBGAsYHQ/s320/s512-android-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
